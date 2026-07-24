@@ -89,10 +89,6 @@ A responsive portfolio landing page built with HTML and CSS, focusing on modern 
 <br/>
 
 
-
-
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
