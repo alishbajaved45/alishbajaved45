@@ -88,22 +88,20 @@ A responsive portfolio landing page built with HTML and CSS, focusing on modern 
 
 <br/>
 
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="165"/>
-<img src="./profile/top-langs.svg" height="165"/>
+<table>
+<tr>
+<td valign="top"><img src="./profile/stats.svg" width="100%"/></td>
+<td valign="top"><img src="./profile/top-langs.svg" width="100%"/></td>
+</tr>
+</table>
 
 <img src="https://streak-stats.demolab.com?user=alishbajaved45&theme=nord&border=4A90E2&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" />
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=alishbajaved45&theme=nord&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 
 </div>
 
