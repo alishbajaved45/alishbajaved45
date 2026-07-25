@@ -19,6 +19,16 @@
 
 <br/>
 
+## 📑 Table of Contents
+- [Who I Am](#-who-i-am)
+- [Featured Projects](#-featured-projects)
+- [Tech Stack](#️-tech-stack)
+- [GitHub Stats](#-github-stats)
+- [Connect With Me](#-connect-with-me)
+- [Acknowledgements](#-acknowledgements)
+
+<br/>
+
 ## 🧑‍💻 Who I Am
 
 ```typescript
@@ -94,27 +104,19 @@ A responsive portfolio landing page built with HTML and CSS, focusing on modern 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 <img src="https://github-stats-extended.vercel.app/api?username=alishbajaved45&show_icons=true&theme=nord&border_color=4A90E2&title_color=4A90E2&icon_color=4A90E2&text_color=c9d1d9&bg_color=0d1117&custom_title=Alishba's+GitHub+Stats" width="480"/>
 
 <br/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=alishbajaved45&layout=compact&theme=nord&border_color=4A90E2&title_color=4A90E2&text_color=c9d1d9&bg_color=0d1117" width="480"/>
+<img src="./profile/top-langs.svg" width="480"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=alishbajaved45&theme=nord&border=4A90E2&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" width="480"/>
 
-</div>
-
 ### 🏆 Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=alishbajaved45&theme=nord&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
-
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=alishbajaved45&theme=nord&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 
 ### 📈 Contribution Activity
 
@@ -136,6 +138,23 @@ A responsive portfolio landing page built with HTML and CSS, focusing on modern 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=vercel&logoColor=white)](https://alishba-javed.vercel.app/)
 
 </div>
+
+<br/>
+
+## 🙌 Acknowledgements
+
+This profile README uses these open-source tools to power the dynamic cards above — big thanks to their maintainers:
+- [Capsule Render](https://github.com/kyechan99/capsule-render) — waving header/footer banners
+- [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) — animated typing text
+- [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended) — stats and pin cards
+- [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) — streak card
+- [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) — trophy showcase
+- [GitHub Readme Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph) — contribution graph
+- [Skill Icons](https://github.com/tandpfun/skill-icons) — tech stack icons
+
+## 🤝 Feedback & Collaboration
+
+Open to feedback, collaboration on full-stack or MERN projects, and freelance opportunities. Feel free to reach out through any of the links above — I'd love to connect!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=120&section=footer&animation=twinkling" width="100%"/>
 
