@@ -1,15 +1,24 @@
+<svg width="480" height="220" viewBox="0 0 480 220" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="479" height="219" rx="10" fill="#0d1117" stroke="#4A90E2" stroke-width="1.5"/>
+  <text x="25" y="38" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="20" font-weight="600" fill="#4A90E2">Most Used Languages</text>
 
-    <svg width="576.5"  height="120" viewBox="0 0 576.5 120" fill="#0d1117" xmlns="http://www.w3.org/2000/svg">
-    <style>
-    .text { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #4A90E2 }
-    .small { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9 }
-    .gray { fill: #858585 }
-    </style>
-    <rect x="0.5" y="0.5" width="575.5" height="99%" rx="4.5" fill="#0d1117" stroke="#4A90E2"/>
-    <text x="25" y="45" class="text">Something went wrong!</text>
-    <text data-testid="message" x="25" y="55" class="text small">
-      <tspan x="25" dy="18">Downtime due to GitHub API rate limiting</tspan>
-      <tspan x="25" dy="18" class="gray">You can deploy own instance or wait until public will be no longer limited</tspan>
-    </text>
-    </svg>
-  
+  <text x="25" y="68" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="13" fill="#c9d1d9">HTML5</text>
+  <rect x="25" y="76" width="430" height="8" rx="4" fill="#21262d"/>
+  <rect x="25" y="76" width="180" height="8" rx="4" fill="#e34c26"/>
+  <text x="465" y="83" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9" text-anchor="end">42%</text>
+
+  <text x="25" y="103" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="13" fill="#c9d1d9">CSS3</text>
+  <rect x="25" y="111" width="430" height="8" rx="4" fill="#21262d"/>
+  <rect x="25" y="111" width="129" height="8" rx="4" fill="#264de4"/>
+  <text x="465" y="118" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9" text-anchor="end">30%</text>
+
+  <text x="25" y="138" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="13" fill="#c9d1d9">JavaScript</text>
+  <rect x="25" y="146" width="430" height="8" rx="4" fill="#21262d"/>
+  <rect x="25" y="146" width="103" height="8" rx="4" fill="#f1e05a"/>
+  <text x="465" y="153" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9" text-anchor="end">24%</text>
+
+  <text x="25" y="173" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="13" fill="#c9d1d9">React (JSX)</text>
+  <rect x="25" y="181" width="430" height="8" rx="4" fill="#21262d"/>
+  <rect x="25" y="181" width="17" height="8" rx="4" fill="#61dafb"/>
+  <text x="465" y="188" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9" text-anchor="end">4%</text>
+</svg>
