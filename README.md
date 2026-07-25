@@ -32,8 +32,7 @@
 
 ## 👋 About Me
 
-I'm **Alishba Javed**, a Full-Stack Web Developer specializing in the **MERN stack**. I build responsive, user-focused web applications — from interactive front-ends with React and Tailwind CSS to robust back-ends powered by Node.js, Express, and MongoDB. I'm also expanding into **Generative AI**, working with tools like the OpenAI API, Gemini, and LangChain to build smarter, more capable applications.
-
+I'm **Alishba Javed**, a Full-Stack Web Developer specializing in the **MERN Stack**. I build responsive, user-focused web applications from interactive front-ends with React and Tailwind CSS to robust back-ends powered by Node.js, Express, and MongoDB. I'm also expanding into **Generative AI**, working with tools like the OpenAI API, Gemini, and LangChain to build smarter, more capable applications.
 I'm currently deepening my MERN stack skills through hands-on projects, and I'm open to full-stack developer roles, freelance work, and collaborative opportunities.
 
 <br/>
@@ -145,7 +144,7 @@ This profile README uses these open-source tools to power the dynamic cards abov
 
 ## 🤝 Feedback & Collaboration
 
-Open to feedback, collaboration on full-stack or MERN projects, and freelance opportunities. Feel free to reach out through any of the links above. I'd love to connect!
+Open to feedback, collaboration on Full-Stack or MERN projects, and freelance opportunities. Feel free to reach out through any of the links above. I'd love to connect!
 
 ## 🔗 Connect With Me
 
