@@ -53,8 +53,6 @@ const alishbaJaved = {
 
 ### 🍽️ Savory Bites — Restaurant Website
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=alishbajaved45&repo=savory-bites-restaurant-website&theme=nord&border_color=4A90E2&title_color=4A90E2&text_color=c9d1d9&bg_color=0d1117)](https://github.com/alishbajaved45/savory-bites-restaurant-website)
-
 A fully responsive restaurant website built with HTML, Tailwind CSS, and JavaScript, featuring an interactive menu, table reservations, and a modern user experience.
 
 | Layer | Technology |
@@ -68,8 +66,6 @@ A fully responsive restaurant website built with HTML, Tailwind CSS, and JavaScr
 <br/>
 
 ### 🎨 Portfolio Landing Page
-
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=alishbajaved45&repo=portfolio-landing-page&theme=nord&border_color=4A90E2&title_color=4A90E2&text_color=c9d1d9&bg_color=0d1117)](https://github.com/alishbajaved45/portfolio-landing-page)
 
 A responsive portfolio landing page built with HTML and CSS, focusing on modern styling and layout design.
 
