@@ -53,6 +53,8 @@ const alishbaJaved = {
 
 ### 🍽️ Savory Bites — Restaurant Website
 
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=alishbajaved45&repo=savory-bites-restaurant-website&theme=nord&border_color=4A90E2&title_color=4A90E2&text_color=c9d1d9&bg_color=0d1117)](https://github.com/alishbajaved45/savory-bites-restaurant-website)
+
 A fully responsive restaurant website built with HTML, Tailwind CSS, and JavaScript, featuring an interactive menu, table reservations, and a modern user experience.
 
 | Layer | Technology |
@@ -66,6 +68,8 @@ A fully responsive restaurant website built with HTML, Tailwind CSS, and JavaScr
 <br/>
 
 ### 🎨 Portfolio Landing Page
+
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=alishbajaved45&repo=portfolio-landing-page&theme=nord&border_color=4A90E2&title_color=4A90E2&text_color=c9d1d9&bg_color=0d1117)](https://github.com/alishbajaved45/portfolio-landing-page)
 
 A responsive portfolio landing page built with HTML and CSS, focusing on modern styling and layout design.
 
@@ -96,7 +100,6 @@ A responsive portfolio landing page built with HTML and CSS, focusing on modern 
 
 ![Skills](https://skillicons.dev/icons?i=openai)
 
-<br/>
 
 ## 📊 GitHub Stats
 
@@ -124,7 +127,6 @@ A responsive portfolio landing page built with HTML and CSS, focusing on modern 
 
 <br/>
 
-
 ## 🙌 Acknowledgements
 
 This profile README uses these open-source tools to power the dynamic cards above — big thanks to their maintainers:
@@ -138,8 +140,7 @@ This profile README uses these open-source tools to power the dynamic cards abov
 
 ## 🤝 Feedback & Collaboration
 
-Open to feedback, collaboration on full-stack or MERN projects, and freelance opportunities. Feel free to reach out through any of the links above — I'd love to connect!
-
+Open to feedback, collaboration on full-stack or MERN projects, and freelance opportunities. Feel free to reach out through any of the links above.I'd love to connect!
 ## 🔗 Connect With Me
 
 <div align="center">
@@ -149,5 +150,6 @@ Open to feedback, collaboration on full-stack or MERN projects, and freelance op
 [![Email](https://img.shields.io/badge/Email-4A90E2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.alishba45@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=vercel&logoColor=white)](https://alishba-javed.vercel.app/)
 
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=120&section=footer&animation=twinkling" width="100%"/>
 
