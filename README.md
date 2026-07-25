@@ -27,7 +27,7 @@
 - [Tech Stack](#️-tech-stack)
 - [GitHub Stats](#-github-stats)
 - [Acknowledgements](#-acknowledgements)
-- [Feedback & Collaboration]
+- [Feedback & Collaboration](#-feedback--collaboration)
 - [Connect With Me](#-connect-with-me)
 
 <br/>
