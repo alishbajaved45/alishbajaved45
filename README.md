@@ -152,7 +152,6 @@ Open to feedback, collaboration on Full-Stack or MERN projects, and freelance op
 
 [![GitHub](https://img.shields.io/badge/GitHub-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alishbajaved45/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4A90E2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alishbaa-javed/)
-[![Email](https://img.shields.io/badge/Email-4A90E2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.alishba45@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=vercel&logoColor=white)](https://alishba-javed.vercel.app/)
 
 </div>
