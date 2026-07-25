@@ -20,13 +20,15 @@
 <br/>
 
 ## 📑 Table of Contents
+
 - [About Me](#-about-me)
 - [Who I Am](#-who-i-am)
 - [Featured Projects](#-featured-projects)
 - [Tech Stack](#️-tech-stack)
 - [GitHub Stats](#-github-stats)
-- [Connect With Me](#-connect-with-me)
 - [Acknowledgements](#-acknowledgements)
+- [Feedback & Collaboration]
+- [Connect With Me](#-connect-with-me)
 
 <br/>
 
