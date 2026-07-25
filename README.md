@@ -84,8 +84,7 @@ A responsive portfolio landing page built with HTML and CSS, focusing on modern 
 | Structure | HTML5 |
 | Styling | CSS3 |
 
-🔗 [Code](https://github.com/alishbajaved45/portfolio-landing-page)
-
+🔗 [Live](https://alishbajaved45.github.io/portfolio-landing-page/) &nbsp;|&nbsp; [Code](https://github.com/alishbajaved45/portfolio-landing-page)
 <br/>
 
 ## 🛠️ Tech Stack
