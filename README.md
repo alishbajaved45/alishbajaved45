@@ -71,7 +71,7 @@ A fully responsive restaurant website built with HTML, Tailwind CSS, and JavaScr
 | Styling | Tailwind CSS |
 | Interactivity | JavaScript |
 
-🔗 [Code](https://github.com/alishbajaved45/savory-bites-restaurant-website)
+🔗 [Live](https://alishbajaved45.github.io/savory-bites-restaurant-website/) &nbsp;|&nbsp; [Code](https://github.com/alishbajaved45/savory-bites-restaurant-website)
 
 <br/>
 
