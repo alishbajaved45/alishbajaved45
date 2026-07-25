@@ -1,0 +1,9 @@
+<svg width="480" height="180" viewBox="0 0 480 180" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="479" height="179" rx="10" fill="#2e3440" stroke="#4A90E2" stroke-width="1.5"/>
+  <text x="25" y="38" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="20" font-weight="600" fill="#4A90E2">Highlights</text>
+
+  <text x="25" y="70" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14" fill="#c9d1d9">🌱  Actively learning the MERN Stack</text>
+  <text x="25" y="98" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14" fill="#c9d1d9">🛠️  Shipped 2 full front-end projects</text>
+  <text x="25" y="126" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14" fill="#c9d1d9">🤖  Exploring Generative AI (OpenAI, Gemini, LangChain)</text>
+  <text x="25" y="154" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14" fill="#c9d1d9">💬  Open to freelance &amp; collaboration</text>
+</svg>
