@@ -20,12 +20,21 @@
 <br/>
 
 ## 📑 Table of Contents
+- [About Me](#-about-me)
 - [Who I Am](#-who-i-am)
 - [Featured Projects](#-featured-projects)
 - [Tech Stack](#️-tech-stack)
 - [GitHub Stats](#-github-stats)
 - [Connect With Me](#-connect-with-me)
 - [Acknowledgements](#-acknowledgements)
+
+<br/>
+
+## 👋 About Me
+
+I'm **Alishba Javed**, a Full-Stack Web Developer specializing in the **MERN stack**. I build responsive, user-focused web applications — from interactive front-ends with React and Tailwind CSS to robust back-ends powered by Node.js, Express, and MongoDB. I'm also expanding into **Generative AI**, working with tools like the OpenAI API, Gemini, and LangChain to build smarter, more capable applications.
+
+I'm currently deepening my MERN stack skills through hands-on projects, and I'm open to full-stack developer roles, freelance work, and collaborative opportunities.
 
 <br/>
 
@@ -117,7 +126,7 @@ A responsive portfolio landing page built with HTML and CSS, focusing on modern 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alishbajaved45&theme=react-dark&color=4A90E2&line=4A90E2&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alishbajaved45&bg_color=2e3440&color=4A90E2&line=4A90E2&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -136,7 +145,8 @@ This profile README uses these open-source tools to power the dynamic cards abov
 
 ## 🤝 Feedback & Collaboration
 
-Open to feedback, collaboration on full-stack or MERN projects, and freelance opportunities. Feel free to reach out through any of the links above.I'd love to connect!
+Open to feedback, collaboration on full-stack or MERN projects, and freelance opportunities. Feel free to reach out through any of the links above. I'd love to connect!
+
 ## 🔗 Connect With Me
 
 <div align="center">
@@ -147,5 +157,6 @@ Open to feedback, collaboration on full-stack or MERN projects, and freelance op
 [![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=vercel&logoColor=white)](https://alishba-javed.vercel.app/)
 
 </div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=120&section=footer&animation=twinkling" width="100%"/>
 
