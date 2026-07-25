@@ -115,7 +115,7 @@ A responsive portfolio landing page built with HTML and CSS, focusing on modern 
 
 ### ✨ Highlights
 
-<img src="./profile/highlights.svg" width="480"/>
+<img src="./highlights.svg" width="480"/>
 
 ### 📈 Contribution Activity
 
