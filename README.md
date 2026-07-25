@@ -43,6 +43,8 @@ const alishbaJaved = {
 
 ### 🍽️ Savory Bites — Restaurant Website
 
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=alishbajaved45&repo=savory-bites-restaurant-website&theme=nord&border_color=4A90E2&title_color=4A90E2&text_color=c9d1d9&bg_color=0d1117)](https://github.com/alishbajaved45/savory-bites-restaurant-website)
+
 A fully responsive restaurant website built with HTML, Tailwind CSS, and JavaScript, featuring an interactive menu, table reservations, and a modern user experience.
 
 | Layer | Technology |
@@ -56,6 +58,8 @@ A fully responsive restaurant website built with HTML, Tailwind CSS, and JavaScr
 <br/>
 
 ### 🎨 Portfolio Landing Page
+
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=alishbajaved45&repo=portfolio-landing-page&theme=nord&border_color=4A90E2&title_color=4A90E2&text_color=c9d1d9&bg_color=0d1117)](https://github.com/alishbajaved45/portfolio-landing-page)
 
 A responsive portfolio landing page built with HTML and CSS, focusing on modern styling and layout design.
 
@@ -92,11 +96,11 @@ A responsive portfolio landing page built with HTML and CSS, focusing on modern 
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="480"/>
+<img src="https://github-stats-extended.vercel.app/api?username=alishbajaved45&show_icons=true&theme=nord&border_color=4A90E2&title_color=4A90E2&icon_color=4A90E2&text_color=c9d1d9&bg_color=0d1117&custom_title=Alishba's+GitHub+Stats" width="480"/>
 
 <br/>
 
-<img src="./profile/top-langs.svg" width="480"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=alishbajaved45&layout=compact&theme=nord&border_color=4A90E2&title_color=4A90E2&text_color=c9d1d9&bg_color=0d1117" width="480"/>
 
 <br/>
 
@@ -134,3 +138,4 @@ A responsive portfolio landing page built with HTML and CSS, focusing on modern 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=120&section=footer&animation=twinkling" width="100%"/>
+
