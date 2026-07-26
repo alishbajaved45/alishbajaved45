@@ -112,7 +112,7 @@ A responsive portfolio landing page built with HTML and CSS, focusing on modern 
 
 <br/>
 
-<img src="./profile/top-langs.svg" width="480"/>
+<img src="/profile/top-langs.svg" width="480"/>
 
 <br/>
 
