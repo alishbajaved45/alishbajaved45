@@ -116,8 +116,6 @@ A responsive portfolio landing page built with HTML and CSS, focusing on modern 
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=alishbajaved45&theme=nord&border=4A90E2&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" width="480"/>
-
 ### ✨ Highlights
 
 <img src="./highlights.svg" width="480"/>
